@@ -22,43 +22,63 @@ Petal Width	Width of the petal (cm)
 Species	Target variable (Setosa, Versicolor, Virginica)
 
 ⚙️ Tech Stack
+
 🔹 Python
+
 🔹 Pandas, NumPy
+
 🔹 Scikit-Learn (Machine Learning)
+
 🔹 Matplotlib, Seaborn (Visualizations)
 
 🛠️ Installation & Setup
+
 🔹 1. Clone the Repository
+
 git clone (https://github.com/Nithin1408/Iris-Classifiaction-ML)
+
 🔹 2. Install Dependencies
+
 pip install pandas numpy scikit-learn matplotlib seaborn
+
 🔹 3. Run the Jupyter Notebook
+
 jupyter notebook
+
 Then, open Iris_Classification.ipynb and run all cells.
 
 🚀 Features & Implementation
+
 🔹 1. Data Exploration
+
 Loaded dataset using pandas
 
 Checked for missing values and outliers
 
 Performed visualizations (Pair plots, histograms)
 
-🔹 2. Preprocessing & Feature Engineering
-Standardized numerical features using StandardScaler
+🔹 2. Preprocessing & Feature Engineering Standardized numerical features using StandardScaler
 
 Split data into training (80%) and testing (20%)
 
 🔹 3. Model Training & Evaluation
+
 Trained multiple models: ✅ Logistic Regression
+
 ✅ K-Nearest Neighbors (KNN)
+
 ✅ Support Vector Machine (SVM)
+
 ✅ Random Forest
 
 Evaluated models using:
+
 ✅ Accuracy Score
+
 ✅ Confusion Matrix
+
 ✅ Classification Report
 
 📊 Results
+
 After training, the best-performing model achieved an accuracy of 100% on the test set.
