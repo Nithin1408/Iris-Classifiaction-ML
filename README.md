@@ -29,7 +29,7 @@ Species	Target variable (Setosa, Versicolor, Virginica)
 
 🛠️ Installation & Setup
 🔹 1. Clone the Repository
-git clone https://github.com/your-username/Iris-Classification-ML.git
+git clone https://github.com/Nithin1408/Iris-Classification-ML.git
 cd Iris-Classification-ML
 🔹 2. Install Dependencies
 pip install pandas numpy scikit-learn matplotlib seaborn
