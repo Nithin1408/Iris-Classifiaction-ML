@@ -63,9 +63,7 @@ Split data into training (80%) and testing (20%)
 
 🔹 3. Model Training & Evaluation
 
-Trained multiple models: ✅ Logistic Regression
-
-✅ K-Nearest Neighbors (KNN)
+Trained multiple models:
 
 ✅ Support Vector Machine (SVM)
 
